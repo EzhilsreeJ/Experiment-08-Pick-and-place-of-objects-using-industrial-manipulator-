@@ -101,6 +101,7 @@ and click on the connect icon
 ### output video and screen shots of pick and place 
 
 
+![IMG-20240422-WA0012](https://github.com/EzhilsreeJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144870412/0d5ba0ae-7c66-4db7-8f72-11dab64a2a34)
 
 
 
